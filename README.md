@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi 👋 I'm Santhosh Kumar
 
-<!--
-**SanthoshKumar0703/SanthoshKumar0703** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Java Developer
 
-Here are some ideas to get you started:
+🌱 Currently learning Full Stack Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+
+- Java
+- Python
+- HTML
+- CSS
+- MySQL
+- Git
+- GitHub
+
+## 📌 Projects
+
+ - Oxygen Cylinder Rental Management system
+ - Medical AI Companian
+
+## 📫 Contact
+
+📧 santhosh070306@gmail.com
+
+💼 LinkedIn:
+https://linkedin.com/in/santhosh-kumar-k-9493b4292
+
+⭐ Thanks for visiting my profile!
